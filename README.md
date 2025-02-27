@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mtriana14
-- 👀 I’m interested in learning more about comp sci so i can know what i am actually interested in (branch).
-- 🌱 I’m currently learning java, css, and html!
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in web dev, app dev, and some back end as well as ML.
+- 🌱 I’m currently in school
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wanted to go to law school but I took a python course in high school and now I'm here.
 
